@@ -1,0 +1,32 @@
+_repo: Ariel-ou-La-vie-de-Shelley_59781
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maurois, André
+    aliases:
+    - Herzog, Emile Salomon Wilhelm
+    - André Maurois
+    - Herzog, Émile Salomon Wilhelm
+    - Maurois, Andre
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '34699'
+    url: http://www.gutenberg.org/2009/agents/34699
+    wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Maurois
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2019-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59781'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ariel: ou, La vie de Shelley'
+url: http://www.gutenberg.org/ebooks/59781
